@@ -1,2 +1,4 @@
 # portal_webpages
-TaiBON webpages
+TaiBON 入口網站
+
+這個專案內包含生物多樣性監測與報告系統計畫中的文字部分，以及系統規劃需求、構想等。
