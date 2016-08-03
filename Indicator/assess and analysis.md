@@ -16,18 +16,5 @@
 另外，並配合國際間的 [P-S-B-R指標（Pressure、State、Benefit、Response）](./Indicator)分類架構、[愛知生物多樣性目標（Aichi Biodiversity 
 Targets）](./Indicator)及永續發展目標（Sustainable Development Goals, SDGs），透過指標篩選機制反覆進行指標的評估與檢討，以建立完善的指
 標架構系統。
-______________________________________________________________________________________________________________________________________
-
-(備註：第一欄位之愛知目標、PSBR、SDGs可隨滑鼠的點入而切換顯示，如圖二、圖三所示)
-
-圖一
-![Aichi](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-Aichi%20target.jpg?raw=true)
-
-圖二
-![PSBR](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-PSBR_new.jpg?raw=true)
-
-圖三
-![SDGs](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-SDGs_new.jpg?raw=true)
-
 
 
