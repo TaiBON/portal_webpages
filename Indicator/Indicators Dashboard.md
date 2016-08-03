@@ -24,10 +24,10 @@ ________________________________________________________________________________
 ![Aichi](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-Aichi%20target.jpg?raw=true)
 
 圖二
-![PSBR](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-PSBR.jpg?raw=true)
+![PSBR](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-PSBR_new.jpg?raw=true)
 
 圖三
-![SDGs](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-SDGs.jpg?raw=true)
+![SDGs](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-SDGs_new.jpg?raw=true)
 
 
 
