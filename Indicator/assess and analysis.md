@@ -18,3 +18,4 @@ Targets）](./Indicator)及永續發展目標（Sustainable Development Goals, S
 標架構系統。
 
 
+連結：指標評估與分析(./Indicator)、生物多樣性指標儀錶板(./Indicator/Dashboard.md)
