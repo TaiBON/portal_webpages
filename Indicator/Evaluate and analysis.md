@@ -14,6 +14,7 @@
 
 
 #### 圖、國內整合之生物多樣性指標評估要件
+【小編備註：滑鼠移動到該項目時，會出現該項目之說明對話框】
 ![elements](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Elements.jpg?raw=true)
 
 
