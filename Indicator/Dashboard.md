@@ -9,3 +9,5 @@
 
 圖三
 ![SDGs](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-SDGs_news.jpg?raw=true)
+
+資料來源：CSRone永續報告平台翻譯與製作
