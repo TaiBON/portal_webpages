@@ -1,5 +1,5 @@
-
-(備註：第一欄位之愛知目標、PSBR、SDGs可隨滑鼠的點入而切換顯示，如圖二、圖三所示)
+#生物多樣性指標儀錶板
+【小編備註：第一欄位之愛知目標、PSBR、SDGs可隨滑鼠的點入而切換顯示，如圖二、圖三所示】
 
 圖一
 ![Aichi](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Framwork-Aichi%20target_news.jpg?raw=true)
