@@ -1,5 +1,5 @@
 # 什麼樣的生物多樣性指標具有其發展價值
-# 該如何進行資料品質評估
+
 
 「生物多樣性指標」就像生物的生長環境一樣，並非同一種環境都適合所有的生物居住；一國家發展出來的生物多樣性指標，並非適用於全世界各個國家。
 因此，國內的生物多樣性指標之發展依據，除了須適用於臺灣外，也須同時具有實用性及永續性，才能算是一個好的生物多樣性指標。
@@ -18,6 +18,8 @@
 ![elements](https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Elements.jpg?raw=true)
 
 
+# 該如何進行資料品質評估 [待續]
 
+PARCC 
 
 
