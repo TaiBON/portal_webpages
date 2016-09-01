@@ -5,7 +5,7 @@ TaiBON，是希望能與國際上如 [GEO-BON](http://geobon.org/)（全球觀�
 Network）及[AP-BON](http://www.esabii.biodic.go.jp/ap-bon/index.html)（亞太生物多樣性觀測網，Asia-Pacific Biodiversity Observation Network）等標準接軌，藉由長期監測生物多樣性指標，透過量化的數據來了解生物多樣性的趨勢變化，是否受到威脅或是劣化？同時，將該結果提供給相關的決策機構參考並加以行動。
 
 
-### 甚麼生物多樣性指標（待續）
+### [甚麼生物多樣性指標](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Indicator%20and%20monitoring.md)
 
 
 ### 發展歷史（待續）
