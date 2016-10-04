@@ -25,4 +25,4 @@
 
 
 ______________________________________________________________________________________________________________________________________
-進一步了解[「生物多樣性指標儀錶板」](/Indicator/Dashboard.md)
+進一步了解[「如何選擇生物多樣性指標」](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)、[「國內使用指標類型」]()、[「國際間/國內的指標介紹」]()、[「生物多樣性指標儀錶板」](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Dashboard.md)
