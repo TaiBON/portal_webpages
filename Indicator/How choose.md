@@ -24,7 +24,7 @@
 （Biodiversity Indicators parnership，簡稱BIP）](http://www.bipindicators.net/)發展出一套「國家級生物多樣性指標發展與運用」的指導方針（共三大主題與9項步驟，如圖），對初步建立指標的台灣來說可是一大福音。除了使用 BIP 的指導方針外，TaiBON 研究小組同時發展出一套適用於台灣本島的評估要件（共四大面項及六常項），來進行國內日後的生物多樣性指標發展。
 
 #### 圖、國家級生物多樣性指標發展與運用之架構圖
-<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Indicator%20development%20frameword(V.3).jpg" width="700"& height="350">
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Indicator%20development%20frameword(V.3.).jpg" width="700"& height="350">
 
 #### 如果我想發展一個指標，我該如何使用該架構圖？
      
