@@ -69,7 +69,7 @@
 #### 圖、我國評估指標的實用性、永續性架構圖
 
 
-<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Elements(V.2).jpg?raw=true" width="420"& height="300">
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Evaluate%20and%20analysis_Elements(V.2).jpg?raw=true" width="380"& height="250">
 
 
 #### 如果我想評估該指標是否具有實用性及永續性，我該如何使用該架構圖？
