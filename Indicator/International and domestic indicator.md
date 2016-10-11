@@ -38,7 +38,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 
 <img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Indicator's%20issue-Land%20.jpg" width="600"& height="550">
 
-
+甚麼是「壓力、狀態、裨益、回應」？進一步了解[請點我](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)
 
 
 
