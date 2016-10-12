@@ -19,7 +19,6 @@
 <img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Process%20of%20indicator.jpg" width="650"& height="230">
 
 
-
 TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)之上，以[愛知目標(Aichi targets)](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)與聯合國[永續發展目標（Sustainable Development Goals, SDGs）](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)作為指標為發展基礎，將國內（林務局、永續發展、行動計劃）現有的指標與國外（全球級、區域級、國家級）廣用的指標進行篩選，再透過指標訂定與評估原則來確立指標的發展方向，並以「議題」為導向，分別為海域四項議題（漁業資源、海洋汙染、選定海洋物種、海洋保護區）及陸域四項議題（選定物種數量變化、外來入侵種、陸域保護區）。
 
 再依據2014年[BIP](http://www.bipindicators.net/)所發展的指標分類架構[（PSBR-Pressure、State、Benefit、Response）](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Type%20of%20indicator.md)來研擬國內可行性的指標，最後再整合政府機關、學術單位、NGO的專家學者共同來完成指標的訂定。
@@ -48,7 +47,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 甚麼是「壓力、狀態、裨益、回應」？進一步了解[請點我](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)
 
 
-#ˋ# 國外有哪些廣用的生物多樣性指標？
+## 國外有哪些廣用的生物多樣性指標？
 
 國際上的全球層級三大指標系統：生物多樣性指標聯盟（BIP）、世界保護監測中心（UNEP-WCMC）、 關鍵生物多樣性變數（EBVs）等三大類型指標。
 其中生物多樣性指標聯盟（BIP）為協助各國能在2020年達成愛知目標（Aichi target），因此建立了PSBR-system（P-壓力、S-狀態、B-裨益、R-回應）等四種面向的指標來建立全球性的生物多樣性指標。
@@ -87,9 +86,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 | 裨益（Benefit, B）|該類性指標反映人類透過生物多樣性的維持，從中獲得的服務與利益之產量與變化|
 | 回應（Response, R）|該類性指標反映遏阻或減緩生物多樣性減少的策略或行動計畫|
 
-
-
-
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Indicator-PSBR.jpg" width="590"& height="300">
 
 
 
@@ -102,8 +99,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 目標 14. 保育及永續利用海洋與海洋資源，以確保永續發展
 目標 15. 保護、維護並促進陸域生態系統的永續利用、永續森林經營管理、對抗沙漠化、終止及逆轉土地劣化，並遏止生物多樣性的喪失 
 
-______________________________________________________________________________________________________________________________________
-「目標14、15」的細項目標、以及其搭配我國發展的指標內容，進一步了解[「生物多樣性指標儀錶板」](/Indicator/Dashboard.md)
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Indicator-SDGs.jpg" width="590"& height="300">
 
 
 ## 關鍵生物多樣性變數（Essential Biodiversity Variables, EBVs）
