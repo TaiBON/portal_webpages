@@ -44,11 +44,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 
 ###　陸域議題指標
 
-| 議題                     | 說明                                                                        |
-| :------------------------|:---------------------------------------------------------------------------|
-| 敏感生物族群數量          |                                                                            |
-| 外來入侵種               |                                                                            |
-| 陸域保護區               |                                                                             |
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Indicator's%20issue-Sea%20.jpg" width="595"& height="450">
 
 
 
