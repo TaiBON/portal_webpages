@@ -14,10 +14,10 @@
 # 國內生物多樣性指標產出過程
 
 透過蒐集與分析來了解國內外的指標現況，來加強我國生物多樣性指標的發展，並以海、陸域之生態性質進行指標探討的議題項目。
-
 #### 圖、國家級生物多樣性指標發展與運用之架構圖
 
 <img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Process%20of%20indicator.jpg" width="650"& height="230">
+
 
 
 TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)之上，以[愛知目標(Aichi targets)](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)與聯合國[永續發展目標（Sustainable Development Goals, SDGs）](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/web_strategy.md)作為指標為發展基礎，將國內（林務局、永續發展、行動計劃）現有的指標與國外（全球級、區域級、國家級）廣用的指標進行篩選，再透過指標訂定與評估原則來確立指標的發展方向，並以「議題」為導向，分別為海域四項議題（漁業資源、海洋汙染、選定海洋物種、海洋保護區）及陸域四項議題（選定物種數量變化、外來入侵種、陸域保護區）。
@@ -25,7 +25,6 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 再依據2014年[BIP](http://www.bipindicators.net/)所發展的指標分類架構[（PSBR-Pressure、State、Benefit、Response）](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Type%20of%20indicator.md)來研擬國內可行性的指標，最後再整合政府機關、學術單位、NGO的專家學者共同來完成指標的訂定。
 
 # 國內生物多樣性指標有哪些議題？
-
 配合國內發展的[「評估指標的實用性、永續性架構圖」](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)，指標評估的第一面向，就是能夠有效地「回應國內相關議題」，同時強調「資料面相」了解指標的資料來源與測量方法，以指標的負責單位與應提供的資料與數據來強調指標的「永續性」，最後以「國際化」來強調是否能夠反映到愛知目標或聯合國的永續發展目標（SDGs）上。
 
 然而，國內有多少個議題可以反應台灣目前的生態狀況？而這些議題有哪些指標發展是關乎到決策者的政策以及大眾的重視？
@@ -54,6 +53,9 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 國際上的全球層級三大指標系統：生物多樣性指標聯盟（BIP）、世界保護監測中心（UNEP-WCMC）、 關鍵生物多樣性變數（EBVs）等三大類型指標。
 其中生物多樣性指標聯盟（BIP）為協助各國能在2020年達成愛知目標（Aichi target），因此建立了PSBR-system（P-壓力、S-狀態、B-裨益、R-回應）等四種面向的指標來建立全球性的生物多樣性指標。
 
+除此之外，聯合國於2014年制定永續發展目標（SDGs），2016年正式啟動，提供全球的方向與視野，為每一個國家羅列完整的發展圖像，結合了人文與環境，顧及人類的生活品質以及人類與大自然間的共存福祉。
+
+
 ## 愛知目標（Aichi targets）
 
 愛知目標主要以保護生物多樣性為宗旨，發展出未來十年（2011-2020）的行動計劃，其目標不僅以加強「生物多樣性保護」制訂出具體的規範，並將整體藍圖共同納入各國、各區的國家體系，期望於 2020 年前達成的近期目標「有效保護生態系統，並採取行動遏阻破壞行為」。這些條目包括劃分為主軸的五個「策略目標」，以及底下二十個具體的「標題目標」。依據這些目標，了解國家現狀並擬定國內的法規方針。
@@ -68,8 +70,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 
 策略目標E：透過參與性規劃、知識管理和能力建設，強化工作執行能力
 
-______________________________________________________________________________________________________________________________________
-「標題目標」內容、以及其搭配我國發展的指標內容，進一步了解[「生物多樣性指標儀錶板」](/Indicator/Dashboard.md)
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Indicator-Aichi%20target.jpg" width="590"& height="300">
 
 
 
