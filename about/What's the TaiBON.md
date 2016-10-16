@@ -21,7 +21,7 @@
 
 # 甚麼是TaiBON（Taiwan Biodiversity Observation Network）？
 
-TaiBON 網站於2018年正式上線，由林務局委託中研院、台灣大學、嘉義大學等學術單位共同合力完成。全名為「臺灣生物多樣性國家監測與報告系統（Taiwan Biodiversity Observation Network）」之簡稱，係以生物多樣性的框架為導向。名稱的意義在於希望能與國際上如 [GEO-BON](http://geobon.org/)（全球觀測群生物多樣性觀測網，Global Earth Observation: Biodiversity Observation 
+TaiBON 網站於2018年正式上線，由林務局委託中研院、台灣大學、嘉義大學等學術單位共同合力完成。全名為「臺灣生物多樣性國家監測與報告系統（Taiwan Biodiversity Observation Network）」之簡稱，係以生物多樣性的框架為導向。名稱的意涵為希望能與國際上如 [GEO-BON](http://geobon.org/)（全球觀測群生物多樣性觀測網，Global Earth Observation: Biodiversity Observation 
 Network）及[AP-BON](http://www.esabii.biodic.go.jp/ap-bon/index.html)（亞太生物多樣性觀測網，Asia-Pacific Biodiversity Observation Network）等接軌，因此給予命名。
 
 TaiBON 所傳達的精神不在於「目前的生態狀況到底有多壞」，而是當人類必需仰賴自然資源時，該如何降低地球的容受力進而支持人類未來的生存。
