@@ -27,7 +27,7 @@ TaiBON 所傳達的精神不在於「生態的現況到底有多壞」，而是�
 
 ## 甚麼是生物多樣性指標
 
-生物多樣性指標在網站中，是經常被提起的名詞，而到底甚麼是生物多樣性指標呢？讓我們來一探究竟吧！（[查看更多請按我](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Evaluate%20and%20analysis.md)）
+生物多樣性指標在網站中，是經常被提起的名詞，也是該監測網站中的中心思想，而究竟甚麼是生物多樣性指標呢？讓我們繼續往下看吧！（[查看更多請按我](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Evaluate%20and%20analysis.md)）
 
 
 
