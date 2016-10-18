@@ -119,7 +119,7 @@
 
 
 
-<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Analysis%20of%20data.jpg" width="500"& height="400">
+<img src="https://github.com/TaiBON/portal_webpages/blob/master/images/indicator/Analysis%20of%20data.jpg" width="600"& height="500">
 
 
 #### 如果我想知道該資料的品質，我該如何使用該架構圖？
