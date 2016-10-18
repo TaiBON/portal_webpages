@@ -21,7 +21,7 @@ TaiBON將生物多樣性指標建構在[BIP指標發展架構](https://github.co
 再依據2014年[BIP](http://www.bipindicators.net/)所發展的指標分類架構[（PSBR-Pressure、State、Benefit、Response）](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/Type%20of%20indicator.md)來研擬國內可行性的指標，最後再整合政府機關、學術單位、NGO的專家學者共同來完成指標的訂定。
 
 # 國內生物多樣性指標有哪些議題？
-配合國內發展的[「評估指標的實用性、永續性架構圖」](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)，指標評估的第一面向，就是能夠有效地「回應國內相關議題」，同時強調「資料面相」了解指標的資料來源與測量方法，以指標的負責單位與應提供的資料與數據來強調指標的「永續性」，最後以「國際化」來強調是否能夠反映到愛知目標或聯合國的永續發展目標（SDGs）上。
+配合國內發展的[「評估指標的實用性、永續性架構圖」](https://github.com/TaiBON/portal_webpages/blob/master/Indicator/How%20choose.md)，指標評估的第一面向，就是能夠有效地「回應國內相關議題」，同時強調「資料面」來了解指標的資料來源與測量方法，指標的負責單位應提供資料與數據來強調指標的「永續性」，最後以「國際化」來強調是否能夠反映到愛知目標或聯合國的永續發展目標（SDGs）上。
 
 然而，國內有多少個議題可以反應台灣目前的生態狀況？而這些議題有哪些指標發展是關乎到決策者的政策以及大眾的重視？
 以下將以自然的屬性（海域、陸域）來進行國內議題的說明。
