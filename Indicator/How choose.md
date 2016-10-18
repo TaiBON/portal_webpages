@@ -113,7 +113,7 @@
 
 
 
-# 該如何進行資料品質評估 [待續]
+# 該如何進行資料品質評估 
 
 生物多樣性指標的建立，需透過各監測系統與調查單位所提供的資料進行計算，資料來源與資料品質將決定指標計算的可信度與代表性。因此，TaiBON 團隊透過 PARCC 資料品質評估五要素的方法，建立資料品質檢核機制。PARCC 五要素分別為精確性（Precision）、準確性（Accuracy）、代表性（Representativeness）、完整性（Completeness）與比較性（Comparability）。
 
